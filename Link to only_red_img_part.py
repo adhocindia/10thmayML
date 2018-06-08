@@ -1,0 +1,1 @@
+/home/do/Desktop/10thmayML/only_red_img_part.py
